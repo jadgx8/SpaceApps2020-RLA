@@ -2,6 +2,8 @@
 
 Topic: Scanning Lifeforms
 
+Project Title: Factors That Alter Birds Migration
+
 Working with terrestrial life forms is a very wide field to analyze. For us, one of the species that have been most affected by different factors captured by modern satellites are migratory birds.
  
 We get to work with them since there are many changes that have affected their migration. From its food, vegetation, temperature, climate changes, human manipulation and many more.
